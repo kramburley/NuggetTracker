@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">NuggetTracker</string>
+    <string name="mainCountTexts">Count</string>
+    <string name="mainSubmitBtns">Submit</string>
+    <string name="mainQuoteTexts">How can a clam cram in a clean cream can?</string>
+    <string name="mainPlus">+</string>
+    <string name="mainMinus">-</string>
+    <string name="menuNumberOfNuggets">Number of Nuggets: </string>
+    <string name="menuWhens">When: </string>
+    <string name="menuMeals">Meal: </string>
+    <string name="menuSauces">Sauce: </string>
+    <string name="menuEnjoyments">Enjoyment: </string>
+    <string name="menuRegrets">Regrets? </string>
+    <string name="menuSubmitBtns">Submit</string>
+    <string-array name="menuSauceList">
+        <item>None</item>
+        <item>Spicy Buffalo</item>
+        <item>Sweet Chili</item>
+        <item>Hot Mustard</item>
+    </string-array>
+    <string name="menuDateInputs">Input Date..</string>
+    <string name="menuEnjoymentTexts">Meh..</string>
+    <string name="popupGraphs">Graphs</string>
+    <string name="popupAchievements">Achievements</string>
+    <string name="popupNugget">Nuggets</string>
+    <string name="popUpMenu">===</string>
+    <string name="AchAllTime">All Time Record</string>
+    <string name="AchDevoured">Number of Nuggets Devoured</string>
+    <string name="AchCalories">Calories Gained</string>
+</resources>
